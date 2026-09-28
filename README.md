@@ -46,5 +46,6 @@ Rydora is a web-based tricycle booking system designed to provide passengers wit
 - Meeting cadence: As agreed by the team
 
 - - Git Contributor and Documentator: Alyza joy Belga
+  - - Presenter Contributor: Jerome Advincula
 
 

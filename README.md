@@ -9,9 +9,9 @@
 ## Team Members & Roles
 
 - Daryl J Bacongco — Project Lead
-- Jerome Advincula — Documentation
+- Jerome Advincula — Presenter
 - Niño ed Mangurali — Diagram Designer
-- Alyza joy Belga — Presenter
+- Alyza joy Belga — Documentation
 
 ## Project Summary
 
@@ -44,3 +44,7 @@ Rydora is a web-based tricycle booking system designed to provide passengers wit
 
 - Channel: MS Teams
 - Meeting cadence: As agreed by the team
+
+- - Git Contributor and Documentator: Alyza joy Belga
+
+
